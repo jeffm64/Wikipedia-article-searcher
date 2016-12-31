@@ -1,0 +1,1 @@
+This app has 2 function. You can hit the random button to get a random wikipedia article. You can also search for one and it will brinmg up a list of the closest results to your search.
